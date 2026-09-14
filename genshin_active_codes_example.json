@@ -1,17 +1,25 @@
 {
   "codes": [
     {
-      "code": "GENSHIN2026",
-      "rewards": "Primogems + 60",
-      "expires_at": "2026-12-31",
+      "code": "Rekviem",
+      "rewards": "Primogem Primogem x100 and Mystic Enhancement Ore Mystic Enhancement Ore x10",
+      "expires_at": "limitado",
       "source": "Exemplo local",
       "notes": "Arquivo de exemplo para testar a sincronização do app.",
       "active": true
     },
     {
-      "code": "SABERBLOOM",
-      "rewards": "Moraw?",
-      "expires_at": "2026-11-15",
+      "code": "Vesna0923",
+      "rewards": "Primogem Primogem x100 and Hero Hero's Wit x5",
+      "expires_at": "limitado",
+      "source": "Exemplo local",
+      "notes": "Troque por códigos reais e ativos da fonte pública.",
+      "active": true
+    },
+    {
+      "code": "PrimaDonna",
+      "rewards": "Primogem Primogem x100 and Mora Mora x50,000",
+      "expires_at": "limitado",
       "source": "Exemplo local",
       "notes": "Troque por códigos reais e ativos da fonte pública.",
       "active": true

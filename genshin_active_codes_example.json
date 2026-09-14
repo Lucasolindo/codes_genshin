@@ -1,0 +1,20 @@
+{
+  "codes": [
+    {
+      "code": "GENSHIN2026",
+      "rewards": "Primogems + 60",
+      "expires_at": "2026-12-31",
+      "source": "Exemplo local",
+      "notes": "Arquivo de exemplo para testar a sincronização do app.",
+      "active": true
+    },
+    {
+      "code": "SABERBLOOM",
+      "rewards": "Moraw?",
+      "expires_at": "2026-11-15",
+      "source": "Exemplo local",
+      "notes": "Troque por códigos reais e ativos da fonte pública.",
+      "active": true
+    }
+  ]
+}
